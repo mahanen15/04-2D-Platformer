@@ -4,7 +4,7 @@ Project 04 2d Platformer game made on 10/31/2022
 
 ## Implementation
 
-Music, Enemy , Pathfinding 
+Music, 2 Enemy's , Pathfinding 
 
 ## References
 Built using Godot 3.5
